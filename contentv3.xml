@@ -71,7 +71,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value="learner"></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -6342,7 +6342,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="106"></reference>
+  <reference key="18"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -8792,7 +8792,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="scowsinglepage"></string>
   <bool value="0"></bool>
   <string role="key" value="scowwebsite"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="style"></string>
   <unicode value="carm"></unicode>
   <string role="key" value="sugaractivityname"></string>
